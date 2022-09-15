@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fall2022 Pillars of OOP", "Fall2022 Pillars of OOP\Fall2022 Pillars of OOP.csproj", "{266620DF-91DD-4133-8593-25E24117AF7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266620DF-91DD-4133-8593-25E24117AF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266620DF-91DD-4133-8593-25E24117AF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266620DF-91DD-4133-8593-25E24117AF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266620DF-91DD-4133-8593-25E24117AF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52FAA9C-E3BC-4171-8125-493C07124AC2}
+	EndGlobalSection
+EndGlobal
